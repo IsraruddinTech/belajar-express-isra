@@ -4,7 +4,7 @@
 Komunitas ini bertujuan untuk memberikan wadah positif dan terstruktur bagi para anggotanya dalam mengembangkan keterampilan dan kompetensi mereka di dunia
 e-sports, khususnya dalam permainan Mobile Legends.
 
-<img src="./r1.jpg">
+<img src="./r2.png">
 
 
 ## STRUKTUR Kepengurusan Ekstrakurikuler Esport Mobile Legends Periode 2024/2025
@@ -56,4 +56,6 @@ sie. umum
 4. Matthew Alexander Joshua Mambu
 ```
 
-# K on
+# Dokumentasi Lomba Agustusan Mobile Legends 
+
+- Day 1
