@@ -1,4 +1,4 @@
-# RedBox Community
+# RedBox Community 😎😎
   Komunitas E-sports SMK Letris Indonesia 2 yang bernama "RedBox" adalah sebuah kelompok yang dibentuk dengan tujuan untuk mengumpulkan siswa-siswi yang memiliki minat dan bakat dalam bidang E-sports.
 
 Komunitas ini bertujuan untuk memberikan wadah positif dan terstruktur bagi para anggotanya dalam mengembangkan keterampilan dan kompetensi mereka di dunia
@@ -75,3 +75,4 @@ sie. umum
 <img src="./b1.jpg">
 
 ## <img src="./b2.jpg">
+
