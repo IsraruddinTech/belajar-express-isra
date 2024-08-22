@@ -4,8 +4,12 @@
 Komunitas ini bertujuan untuk memberikan wadah positif dan terstruktur bagi para anggotanya dalam mengembangkan keterampilan dan kompetensi mereka di dunia
 e-sports, khususnya dalam permainan Mobile Legends.
 
-<img src="./r2.png">
+<img src="./r1.jpg">
 
+## FILOSOFI LOGO REDBOX
+Kata "RBX" berasal dari kata "RedBox," yang berarti Kotak Merah. Nama ini diambil dari konsep bangunan SMK Letris Indonesia 2, yang memiliki warna kemerahan yang khas. Warna merah pada bangunan ini melambangkan semangat, keberanian, dan energi yang menjadi ciri khas dari sekolah tersebut.
+
+<img src="./lets.jpeg">
 
 ## STRUKTUR Kepengurusan Ekstrakurikuler Esport Mobile Legends Periode 2024/2025
 
@@ -58,4 +62,16 @@ sie. umum
 
 # Dokumentasi Lomba Agustusan Mobile Legends 
 
-- Day 1
+- Day 1 (14 Agustus 2024)
+
+<img src="./a1.jpg">
+
+## <img src="./a2.jpg">
+
+### <img src="./a3.jpg">
+
+- Day 2 (15 Agustus 2024)
+
+<img src="./b1.jpg">
+
+## <img src="./b2.jpg">
